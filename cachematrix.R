@@ -32,4 +32,4 @@ cacheSolve <- function(x, ...) {
   inv <- solve(data) #get the inverse
   x$setinverse(inv)
   inv #R will return this
-}
+} #time for Sunday night football.
